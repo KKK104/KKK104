@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Leo N Lansangan (KKK104)
 
-## 🚀 Full Stack Developer | Farm Management Systems Specialist
+## 🚀 Full Stack Developer | Mobile & Web Applications Specialist
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative solutions for agricultural technology and modern web applications.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative solutions for modern web and mobile applications.
 
-### 🔭 Current Project: Bar-Broiler-Prodata-App
-A comprehensive **Professional Broiler Farm Management System** with:
+### 🔭 Current Project: Professional Management System
+A comprehensive **Business Management Application** with:
 - 📱 **Mobile-First Design** with Android APK deployment
-- 🏗️ **Production-Ready Architecture** serving real farm operations
+- 🏗️ **Production-Ready Architecture** serving real-world operations
 - 📊 **Real-time Analytics** and performance tracking
-- 👥 **Multi-Role Access Control** for farm teams
+- 👥 **Multi-Role Access Control** for team management
 
 ---
 
@@ -41,12 +41,12 @@ A comprehensive **Professional Broiler Farm Management System** with:
 
 ---
 
-## 📊 Featured Project: Professional Farm Management System
+## 📊 Featured Project: Professional Management System
 
 ### 🏆 **Key Achievements:**
 - ✅ **95% Project Completion** with production-ready deployment
 - 📱 **Native Android App** (7.4 MB APK) ready for distribution  
-- 🌐 **Live Web Application** deployed on Netlify
+- 🌐 **Live Web Application** deployed on cloud platform
 - 🔐 **Enterprise-Grade Security** with multi-role authentication
 - 📈 **Real-time Analytics** with Chart.js and Recharts
 - 🗄️ **Scalable Database** with Supabase PostgreSQL
@@ -54,37 +54,39 @@ A comprehensive **Professional Broiler Farm Management System** with:
 ### 🛠️ **Technical Implementation:**
 ```typescript
 // Modern React 19 + Next.js 15 Architecture
-const FarmManagementApp = {
+const ManagementApp = {
   frontend: "Next.js 15 + React 19 + TypeScript",
   backend: "Supabase + PostgreSQL + Row Level Security",
   mobile: "Capacitor + Android APK",
   styling: "Tailwind CSS + Framer Motion",
   charts: "Chart.js + Recharts",
   testing: "Jest + React Testing Library",
-  deployment: "Netlify + Automated CI/CD"
+  deployment: "Cloud Platform + Automated CI/CD"
 };
 ```
 
 ### 📱 **Multi-Platform Deployment:**
-- 🌐 **Web App:** https://friendly-conkies-db6509.netlify.app/
-- 📱 **Android APK:** Production-ready native application
+- 🌐 **Web App:** Production-ready web application
+- 📱 **Android APK:** Native mobile application
 - 🔄 **PWA Support:** Offline functionality and "Add to Home Screen"
 
 ---
 
 ## 🎯 Specializations
 
-### **Agricultural Technology (AgTech)**
-- 🐔 **Broiler Farm Management Systems**
-- 📊 **Performance Analytics & KPI Tracking** 
-- 📱 **Mobile-First Farm Applications**
-- 🔄 **Real-time Data Synchronization**
-
 ### **Full-Stack Development**
 - ⚛️ **Modern React Ecosystems** (React 19, Next.js 15)
 - 🗄️ **Database Design & Optimization** (Supabase, Firebase)
 - 🔐 **Authentication & Security** (JWT, Row Level Security)
 - 📱 **Cross-Platform Mobile Development** (Capacitor, PWA)
+- 📊 **Performance Analytics & KPI Tracking**
+- 🔄 **Real-time Data Synchronization**
+
+### **Mobile & Web Applications**
+- 📱 **Progressive Web Apps (PWA)**
+- 🤖 **Native Android Development**
+- 💻 **Responsive Web Design**
+- 🎨 **Modern UI/UX Implementation**
 
 ### **Hardware Integration**
 - 🤖 **Arduino-based IoT Solutions**
@@ -104,21 +106,21 @@ const FarmManagementApp = {
 
 ## 🚀 Current Focus
 
-- 🔨 **Completing Farm Management System** deployment and optimization
+- 🔨 **Completing Management System** deployment and optimization
 - 📱 **Mobile App Store** submission preparation  
-- 🤖 **IoT Integration** for automated farm monitoring
-- 🧠 **AI-Powered Analytics** for predictive farm insights
+- 🤖 **IoT Integration** for automated monitoring solutions
+- 🧠 **AI-Powered Analytics** for predictive insights
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 **Portfolio:** Building amazing agricultural technology solutions
+- 💼 **Portfolio:** Building innovative technology solutions
 - 📧 **Email:** Available for collaboration and consulting
-- 🌟 **Open to:** Full-stack development, AgTech projects, IoT integrations
+- 🌟 **Open to:** Full-stack development, mobile projects, IoT integrations
 
 ---
 
-*"Bridging technology and agriculture to create smarter, more efficient farming solutions"* 🌾
+*"Creating innovative solutions through modern technology and clean code"* 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KKK104&color=brightgreen)
