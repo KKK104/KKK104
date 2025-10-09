@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Leo N Lansangan (KKK104)
 
-## 🚀 Full Stack Developer | Mobile & Web Applications Specialist
+## 🚀 Full Stack Developer | Mobile & Web Applications Specialist and IOT
 
 Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative solutions for modern web and mobile applications.
 
